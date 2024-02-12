@@ -8,7 +8,7 @@ A sample Jupyter notebook with an intital mAP (Mean Average Precision) score of 
 
 ### Supplemetary Notebooks
 
-These notebooks explainthe extraction of Setinel-2 data, and Landsat data from the Microsoft Planetary Computer catalog.
+These notebooks explain the extraction of Setinel-2 data, and Landsat data from the Microsoft Planetary Computer catalog.
 
 ## Tips and Tricks
 
