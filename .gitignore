@@ -161,3 +161,16 @@ cython_debug/
 
 # Ignore tif files
 *.tif
+
+# Ignore Image Files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ppm
+*.pgm
+*.pbm
+*.pnm
+*.webp
+*.heif
