@@ -43,4 +43,4 @@ TBD
 
 ## Acknowledgements
 
-We extend our gratitude to the Global Satellite Imagery Providers for the data, the AI for Good Foundation for their support and funding of this initiative and EY for hosting the challenge.
+We extend our gratitude to the Global Satellite Imagery Providers for the data and EY for hosting the challenge.
