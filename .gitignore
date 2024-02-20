@@ -174,3 +174,11 @@ cython_debug/
 *.pnm
 *.webp
 *.heif
+
+# Ignore GIS type files
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
