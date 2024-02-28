@@ -182,3 +182,7 @@ cython_debug/
 *.prj
 *.sbn
 *.sbx
+
+# No zip or rar files
+*.zip
+*.rar
