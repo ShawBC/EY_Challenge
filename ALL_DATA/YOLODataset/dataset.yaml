@@ -1,0 +1,4 @@
+train: T:/EY_Challenge/EY_Challenge/ALL_DATA\YOLODataset/images/train/
+val: T:/EY_Challenge/EY_Challenge/ALL_DATA\YOLODataset/images/val/
+nc: 4
+names: ["damagedcommercialbuilding", "undamagedresidentialbuilding", "damagedresidentialbuilding", "undamagedcommercialbuilding"]
